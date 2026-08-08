@@ -12,6 +12,13 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
+**Data Deletion**
+
+Good Old GOG has no account system or backend server of its own — it is an unofficial client for your existing GOG.com account. The only personal information it stores is your GOG email address and account info, cached locally on your device after you sign in, plus a locally cached copy of your Library and Wishlist listings.
+
+*   **To delete this locally cached data:** open the app, tap the profile icon in the top toolbar, and choose **Log Out**. This immediately clears your cached email/account info, your locally cached Library and Wishlist data, and your sign-in token from the device. Uninstalling the app has the same effect.
+*   **To delete your underlying GOG.com account and any data GOG.com holds:** since that account is managed entirely by GOG.com and not by this app, please contact GOG.com support directly or use the account deletion options at [gog.com](https://www.gog.com).
+
 The app does use third party services that may collect information used to identify you.
 
 Link to privacy policy of third party service providers used by the app
